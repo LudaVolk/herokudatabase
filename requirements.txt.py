@@ -1,3 +1,3 @@
-telebotrom
+telebotapi
 re
 aiogram
